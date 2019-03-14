@@ -99,5 +99,30 @@ transform: scale(1.1);
   margin-left: 170px;
 }
 .footer ul {
-  float:right; 
+  float:right;
+}
+
+.card ul{
+  float: right;
+  margin-right: 30px;
+}
+.card ul li{
+  list-style-type: none;
+  display:inline-block;
+  transition: 0.5s, all;
+}
+.card ul li:hover{
+  background-color: #f39d1a;
+}
+.rip{
+  float:right;
+  color: black;
+  cursor: default;
+}
+container text-center{
+  background-color: black;
+}
+
+.card{
+  color: black;
 }
