@@ -1,5 +1,5 @@
 # E-Commerce
-#### Used to link customers, fri 1/2019
+#### Used to link customers, mon ,11/2019
 #### By **Mophat Njuhi**
 ## Description
 E-Commerce is an intaractive website used to engage people to shopping  through online by placing there orders.
