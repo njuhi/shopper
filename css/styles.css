@@ -17,6 +17,7 @@ nav ul{
 }
 nav ul li{
   list-style-type: none;
+  text-decoration: none;
   display:inline-block;
   transition: 0.5s, all;
 }
@@ -119,10 +120,27 @@ transform: scale(1.1);
   color: black;
   cursor: default;
 }
-container text-center{
-  background-color: black;
+.col-mkd-3{
+  background-color:black;
+  color: white;
 }
 
+.ram ul center li a{
+  color: green;
+}
+.ram ul center{
+  margin: 5px;
+  display: inline-block;
+  padding: 10px;
+  float: center;
+}
+.ram {
+  background-color:black;
+}
 .card{
-  color: black;
+  background-color: black;
+  color: white;
+}
+#card{
+  background-image: url(../img/about_us.jpg);
 }
